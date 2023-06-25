@@ -1,0 +1,84 @@
+body {
+    background-color: #00d4ff ;
+}
+.btn-custom{
+    background-color: rgb(95, 95, 231);
+    width: 120px;
+
+}
+.nav-item a{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    
+}
+.header{
+    margin-top: 50px;
+    margin-bottom: 200px;
+    
+}
+.header h1 {
+    margin-top: 80px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+.header p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    width: 80%;
+}
+
+.banner{
+    margin-top: 40px;
+}
+
+.shoping{
+    margin-bottom: 50px;
+
+}
+.shoping h2{
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+
+}
+.shoping .card{
+    border-radius: 10%;
+    border: none;
+    box-shadow: 0 px 10px 15px -3px rgb(rgb(3, 3, 3));
+
+}
+.shoping img{
+    border-radius: 10%;
+    width: 100%;
+}
+
+.banner{
+    margin-top: 50px;
+}
+.banner img{
+    border-radius: 10px;
+}
+
+.about{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.about img {
+    border-radius: 5%;
+
+}
+.about h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.about p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.shoping h3 {
+    font-size: 22px;
+}
+

@@ -1,0 +1,40 @@
+body  {
+    /* user-select: none; */
+    
+}
+.menu {
+    user-select: none;
+    color: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 39%, rgba(0, 212, 255, 0.9136029411764706) 100%);
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 39%, rgba(0,212,255,0.9136029411764706) 100%); */
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    /* display: none; */
+
+}
+
+.submenu {
+    color: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 39%, rgba(0, 212, 255, 0.9136029411764706) 100%);
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 39%, rgba(0,212,255,0.9136029411764706) 100%); */
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 10px;
+
+}
+
+.samping {
+    display: flex;
+}
+
+.samping .menu {
+    font-size: 40px;
+}
+
+.tubuh .tangan .jari p{
+    font-size: 30px;
+}

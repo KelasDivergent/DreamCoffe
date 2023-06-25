@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(224, 224, 233);
+}
+.btn-custom{
+    background-color: #a00000 ;
+    width: 120px;
+    /* border-radius: 50px; */
+}
+
+.header{
+    margin-top: 40px;
+}
+
+.header .img-header{
+    width: 500px;
+}
+.header h1{
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+
+}
+
+.header p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    width: 80%;
+
+}
+
+.buku{
+    margin-bottom: 50px;
+}
+
+.buku h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    
+}
+.buku .card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+.buku img{
+    border-radius: 10px;
+}
+.banner{
+    margin-top: 40px;
+}
+.banner img{
+    border-radius: 15px;
+}
